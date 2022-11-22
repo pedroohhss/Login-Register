@@ -1,7 +1,4 @@
 # Projeto de telas para login e cadastro
 
-Este é um projeto que eu fiz totalmente em java, utilizando a IDE NetBeans.
-Foi utilizado o SGBD PostgreSQL.
-
-Eu fiz a tela o mais responsiva que eu consegui, que no caso as telas sempre centralizam as informações que aparecem dela no centro da tela.
-Está conectado à um banco de dados local, e todas as telas se conectam ao banco de dados.
+Este é um projeto de tela de Login e Cadastro feito totalmente em Java, e conectado ao SGBD PostgreSQL.
+Para a criação da tela foi utilizado a IDE Apache NetBeans, com o javax swing, e estando responsiva.
